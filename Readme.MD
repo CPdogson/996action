@@ -1,5 +1,5 @@
 # 一些关于维护八小时工作制和双休制的行动
-本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件，CPdogson@protonmail.com。
+本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com
 
 ## 利用信息公开监督劳动监察部门的情况
 
@@ -42,11 +42,11 @@
 #### 传阅报告，指出公开报告不足，并找媒体加以宣传。
 
 
-附：[信息公开手册](https://github.com/mdrights/mirror-CN/blob/master/%E6%89%8B%E5%86%8C%E5%92%8C%E6%8C%87%E5%8D%97/%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E7%94%B3%E8%AF%B7%E6%89%8B%E5%86%8C.pdf)
+##### 附：[信息公开手册](https://github.com/mdrights/mirror-CN/blob/master/%E6%89%8B%E5%86%8C%E5%92%8C%E6%8C%87%E5%8D%97/%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E7%94%B3%E8%AF%B7%E6%89%8B%E5%86%8C.pdf)
 
 
 ‘**将你的信息公开申请过程通知媒体和自媒体，把信息公开结果在此呈现**’
 
-# 这是保护双休制和八小时工作制的第一步，除此之外，本项目还可能执行以下活动
+### 这是保护双休制和八小时工作制的第一步，除此之外，本项目还可能执行以下活动
 
-## [关于应对996工作制的法律上的本质原因分析和应对策略](Total-action-strategy.md)
+#### [关于应对996工作制的法律上的本质原因分析和应对策略](Total-action-strategy.md)
