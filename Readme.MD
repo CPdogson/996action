@@ -8,9 +8,10 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+## [宣传休息制度与我国英雄的努力](hero.md)
 ## 利用信息公开监督劳动监察部门的情况
 
-## [法律可行性分析](Legal-feasibility-analysis.md)
+### [法律可行性分析](Legal-feasibility-analysis.md)
 信息公开是一种公民监督政府工作的方式，属于对抗996比较温柔地法律途径之一。和劳动仲裁和劳动诉讼相比，信息公开同样可以制造案件，但是不会使劳动者丢掉工作。
 
 ### 信息公开对比其他手段
