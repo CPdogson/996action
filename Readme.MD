@@ -1,3 +1,7 @@
+**action第一次板块将于4月20日进行第一次线上会议，将会使用Jitsi Meet进行线上交流。本次会议邀请每一位愿意参与信息公开活动的参与者加入！**
+
+**私聊CPdogson或者邮件至CPdogson@protonmail.com进行报名。**
+
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com
 
