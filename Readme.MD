@@ -9,7 +9,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## [宣传休息制度与我国英雄的努力](hero.md)
-## [行为艺术：向黑名单企业寄送建议信和劳动法、向白名单企业寄送感谢信和锦旗](black and white.md)
+## [行为艺术：向黑名单企业寄送建议信和劳动法、向白名单企业寄送感谢信和锦旗](black-and-white.md)
 ## 利用信息公开监督劳动监察部门的情况
 
 ### [法律可行性分析](Legal-feasibility-analysis.md)
