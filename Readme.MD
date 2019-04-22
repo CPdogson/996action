@@ -112,3 +112,5 @@
 #### [关于应对996工作制的法律上的本质原因分析和应对策略](Total-action-strategy.md)
 #### [成立行动组织的可行性分析](organization.md)
 
+[随笔：至我那些爱泼冷水的朋友们](Essay.md)
+
