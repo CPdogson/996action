@@ -5,6 +5,7 @@
 
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com
+
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ## 进行中...
