@@ -68,3 +68,17 @@
 （为方便理解，此倡议书公开版有几处改动，并增加了对劳动法的援引）
 
 ![图片1](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBDJCIr96sd3leXxP9hdmGclUXsIT1y5qc1FHRsRyg4ooHkEdM8NOjzg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片2](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBzVGmZgddZY0ibdMNFVhlEyUaovllnibmvPfjIRgT1ddOvNqBWM9RBAtA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片3](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCB1ibSa3HCAW2F9VgficdLFA5QJibAWTe7xyiajJmkzRgoDphPrFHB4BAU9w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片4](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBLyx0ZCETpQVRebIOZxGpQMIDiau3U5QUo7aWLeqGJpricXXZLlrc9p2Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片5](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBbA0jibXQ9BSjufkd3NgC813ejFPRoSoxgbhDiagztx39qANicOKKktSaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片6](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBbbCQeus8LJZ73LtWCBhUyAlNDV5X7codOFs6uBYQwIWzWKicbgGI9qg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片7](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBORKeMicXKjCWNoiaIicIM9LDFqbqHz22DTVZ0RZAb6oqsPsEzT6xIkPDA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片8](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCB8DVZoNePSRl5b3sOBtkTz3FdvHsc085mRP5VeYkxq583DT3mlu91Xw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片9](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBu8hFIzT3p7tiaeu6Q5HNpAlgY1evyTAFmurr54rtvvGicRiaUe3Fs8Yuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片10](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCB654qiahHSNrpWh9ohe6Ku3ceVx1ciaQ2v7TdAQtHHFFZFSeSMJ4yfrFg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片11](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBa6zgMFg4If2F78ibWUqohIibamQZfkYaH1P0yCOo3znRD9iaxib3NCIfiaQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片12](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCB9HzOBEd7mZI6hJQ7IaS5rDFLydTibB4Cf0Bib8jeVJibA7y7ZnFjn20Bw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片13](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBPu0mQLmyRHAiclumYISSaKwCWTQtZmNsCXXFCuxyyONQzg3F5gwQFiaQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片14](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBDicuNqoTyMleZImYNN4QLgs7QLgMp4CgiaDkngTQlovIiaHTwLiayecR2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片15](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIhtSjyCOa9IEhkicGBoibia4JxUB9P2CgKvSAib13GgnNonrUhBenzLGMMOYTHaoVib3QUXMnVxavKicHkg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
