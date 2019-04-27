@@ -67,4 +67,4 @@
 
 （为方便理解，此倡议书公开版有几处改动，并增加了对劳动法的援引）
 
-![图片1](![img](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBDJCIr96sd3leXxP9hdmGclUXsIT1y5qc1FHRsRyg4ooHkEdM8NOjzg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1))
+![图片1](https://mmbiz.qpic.cn/mmbiz_jpg/7XQLYB1OnIh2XQvaI8aLgzpYgHGlEGCBDJCIr96sd3leXxP9hdmGclUXsIT1y5qc1FHRsRyg4ooHkEdM8NOjzg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
