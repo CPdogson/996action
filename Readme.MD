@@ -1,7 +1,7 @@
 > 最新进展：
+- [上传了向八市人力资源和社会保障局信息公开的稿件](https://github.com/CPdogson/996action/blob/master/Press-releases/Gov-info.md)
 - [上传了五四青年节#向马云寄劳动法#宣传稿](Press-releases/%23向马云寄劳动法%23宣传稿.docx)
 - 新增了第三方活动：向互联网公司投递倡议书和证据众筹：给企业上一节普法课
-- [8市信息公开地址与申请书整理完毕](Gov-info/420meet.md)
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com
 
