@@ -1,5 +1,5 @@
 > 最新进展：
-- 智齿炎导致浑身酸痛说不出话而已，我没被约谈，请不要传谣造谣。
+- 我没被约谈，请不要造谣传谣
 - 增加了[不熟悉GitHub的劳动者提交黑名单/白名单的渠道](https://www.996action.com/index.php/889799)
 - [上传了向八市人力资源和社会保障局信息公开的稿件](https://github.com/CPdogson/996action/blob/master/Press-releases/Gov-info.md)
 - [上传了五四青年节#向马云寄劳动法#宣传稿](Press-releases/%23向马云寄劳动法%23宣传稿.docx)
