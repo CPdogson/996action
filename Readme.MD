@@ -1,7 +1,7 @@
 > 最新进展：
+- 整理了[寄送劳动法的图片](/54law/pic.md)
 - 我没被约谈，请不要造谣传谣
 - 增加了[不熟悉GitHub的劳动者提交黑名单/白名单的渠道](https://www.996action.com/index.php/889799)
-- [上传了五四青年节#向马云寄劳动法#宣传稿](Press-releases/%23向马云寄劳动法%23宣传稿.docx)
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com。讨论请至[996icu-cn-action](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)。关于劳动仲裁和劳动诉讼请转至[996.law](https://github.com/CPdogson/996.law)讨论。
 
