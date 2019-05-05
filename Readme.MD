@@ -1,7 +1,7 @@
 > 最新进展：
+- 添加了[五月行动后的反思以及后续的行动策略](May-Reflection)
 - 整理了[寄送劳动法的图片](/54law/pic.md)
 - 增加了[不熟悉GitHub的劳动者提交黑名单/白名单的渠道](https://www.996action.com/index.php/889799)
-- 我没被约谈，请不要造谣传谣
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com。讨论请至[**996icu-cn-action**](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)。关于劳动仲裁和劳动诉讼请转至[996.law](https://github.com/CPdogson/996.law)讨论。
 
@@ -39,6 +39,7 @@
 ### [#向马云寄劳动法#5月4日青年节一起向马云寄劳动法吧！](JackMa-law.md)
 这是一个低成本的幽默行为艺术式抗争，它效仿寄刀片这种模式，但它比起寄刀片则是完全合法。不仅要寄挂号信，还要在信封上写到“内含印有国徽的劳动法一本”。
 ## 其他
+- [二〇一九年五月行动后的反思以及后续的行动策略](May-Reflection)
 - [关于应对996工作制的法律上的本质原因分析和应对策略](Total-action-strategy.md)
 - [成立行动组织的可行性分析](organization.md)
  
