@@ -31,7 +31,6 @@
 ![006XAr47gy1g2lu32sa7fj32c0340x02.jpg](https://i.loli.net/2019/05/04/5ccd991667457.jpg)
 ![cae5ef86ly1g2p58etyixj20u01hcq8m.jpg](https://i.loli.net/2019/05/04/5ccd991669d2d.jpg)
 ![007qf454ly1g2p1396kprj32c02c0e82.jpg](https://i.loli.net/2019/05/04/5ccd9916b0a85.jpg)
-![dd2f7ee2d7aedda1.jpeg](https://i.loli.net/2019/05/04/5ccd99216fa67.jpeg)
 ![006XAr47gy1g2lu32sa7fj32c0340x02.jpg](https://i.loli.net/2019/05/04/5ccd9937512b2.jpg)
 ![007DwZaoly1g2pd1tsbyuj30u0140wh0.jpg](https://i.loli.net/2019/05/04/5ccd9937651fb.jpg)
 ![006zv7c5ly1g2pcy9wrtpj31400u01kx.jpg](https://i.loli.net/2019/05/04/5ccd993766d3a.jpg)
