@@ -8,7 +8,6 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ## 进行中...
-这是将会是两个分开的行动，白名单企业行动大约在5月中旬。
 ### [向地方人力资源和社会保障局寄送信息公开申请书（长期）](Gov-info/gov-info.md)
 写申请信给地方人力资源部门要求信息公开，信息公开申请表可以在政府网站下载，需要公开的信息包括各企业的劳动时长监察情况等。属于对抗996比较温柔地法律途径之一。和劳动仲裁和劳动诉讼相比，信息公开同样可以制造案件，但是不会使劳动者丢掉工作。————这是一向长期活动，随时可以参与。
 > 进展：4月29日已寄出，等待回复......
