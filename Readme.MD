@@ -13,6 +13,7 @@
 - 第一类是在违反劳动法中工时制度的企业工作，愿意主动收集证据，发起劳动仲裁的————**任何行业**
 - 第二类是添加了Anti 996 License Version 1.0的设计师，设计的产品又刚好被违反劳动法中工时制度的企业使用
 - 第三类是为确立八小时工作制和双休制努力过的英雄本人或家属
+> 进展：人民法院报[小孙的案例](https://github.com/CPdogson/996.law/blob/master/Case/Mr_Sun.md)
 ### [完善普通劳动者参与渠道意见和建议征集](https://www.996action.com/index.php/439929?lang=zh-Hans)
 填写上述问卷，对于普通劳动者参与996所有项目障碍，欢迎在issues进行讨论，也可以将意见和建议发生至我的邮箱CPdogson@protonmail.com
 ### [向地方人力资源和社会保障局寄送信息公开申请书（长期）](Gov-info/gov-info.md)
