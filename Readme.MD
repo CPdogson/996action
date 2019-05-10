@@ -1,13 +1,15 @@
 > 最新进展：
+- 表态：996action，希望保障所有劳动者的休息权，并且尊重女性的自由选择和劳动权，尊重残障等少数群体的自由选择和劳动权。期待更多的合作和加入！
 - 添加了[五月行动后的反思以及后续的行动策略](May-Reflection.md)，并更具策略调整了进行中的活动
 - 整理了[寄送劳动法的图片](/54law/pic.md)
-- 增加了[不熟悉GitHub的劳动者提交黑名单/白名单的渠道](https://www.996action.com/index.php/889799)
 # 一些关于维护八小时工作制和双休制的行动
 > 本项目鼓励所有劳动者进行参与，如果在参与过程中出现困难，可以在Issues留言，如果不擅长使用github可以给我发邮件 CPdogson@protonmail.com。讨论请至[**996icu-cn-action**](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)。关于劳动仲裁和劳动诉讼请转至[996.law](https://github.com/CPdogson/996.law)讨论。
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ## 进行中...
+### 寻找更多合作伙伴
+996action希望保障所有劳动者的休息权，并且尊重女性的自由选择和劳动权；尊重残障等少数群体的自由选择和劳动权。希望更多的伙伴加入我，与我一起行动。
 ### [寻找三类典型当事人起诉企业](Three-parties.md)
 对于以下当事人，996action愿意提供免费的法律咨询，如果有条件的话甚至会提供免费的律师。如果你是以下三类朋友，请联系我
 - 第一类是在违反劳动法中工时制度的企业工作，愿意主动收集证据，发起劳动仲裁的————**任何行业**
