@@ -7,6 +7,8 @@
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
+
 ## 进行中...
 ### [#向马云寄劳动法#行为艺术：向黑名单企业寄送建议信和劳动法、向白名单企业寄送感谢信和锦旗](black-and-white.md)
 这是一个低成本的幽默行为艺术式抗争，它效仿寄刀片这种模式，但它比起寄刀片则是完全合法。不仅要寄挂号信，还要在信封上写到“内含印有国徽的劳动法一本”。
