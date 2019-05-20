@@ -1,6 +1,8 @@
 # 996icu永不停止，为爱前行——996action行政诉讼第一案诉成都市社会保障和人力资源局
 > 前景提要：本次行动全部计划从[2018年4月8日开始启动](https://github.com/CPdogson/996action/blob/master/Gov-info/gov-info.md)，[4月20日进行第一次计划会议](https://github.com/CPdogson/996action/blob/master/Gov-info/420meet.md)，4月28日进行第二次确认会议，与寄送劳动法活动一样，4月29日寄出，起诉时间与收到答复时间相关，并且全程于[slack](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)上公开组织讨论。
 
+- 知乎：https://www.zhihu.com/question/325277117
+
 大约2个月前，996icu国内的社交网络上引起了广泛关注，资本家们的这一番放话意味着即使目前互联网行业的常态化加班已经被推上风口浪尖、996.ICU 影响力进一步扩大，他们也不担心继续推行常态化加班的工作制度会给公司惹来什么大麻烦。这从侧面说明了国内的劳动部门在监察方面是存在不小问题的，996.ICU 这一话题已经被炒热很久，官媒也有了相关发声，但是至今为止排在 996.ICU 黑名单前列的企业仍然没有受到任何的制裁。甚至有媒体评论“996.ICU就是一场线下见光死、线上抱团取暖的程序员狂欢。”
 
 可就在不久前的5月1日和5月4日，996action连续进行了信息公开和寄送劳动法两个线下活动，不仅引发了大规模的删帖，在此之后百度对996资讯的搜索永远停留在了4月17日。 
