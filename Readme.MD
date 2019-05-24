@@ -7,7 +7,7 @@
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[！[HitCount（http://hits.dwyl.io/CPdogson/action.svg）（http://hits.dwyl.io/CPdogson/action）
+[![HitCount](http://hits.dwyl.io/CPdogson/action.svg)](http://hits.dwyl.io/CPdogson/action)
 ## 进行中...
 ### 寻找更多合作伙伴
 我个人希望保障所有劳动者的休息权，并且尊重女性的自由选择和劳动权；尊重残障等少数群体的自由选择和劳动权。希望更多的伙伴加入我，与我一起行动。
