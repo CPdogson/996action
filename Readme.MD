@@ -1,5 +1,5 @@
 > 最新进展：
-- 
+- 条例修改建议：向国务院提议修改《劳动保障监察条例》的初步设计
 - 上传了[5月20日起诉成都市人力资源和社会保障局的宣传稿件](Press-releases/chengdususong.md) 目前案件等待开庭中
 - 添加了[五月行动后的反思以及后续的行动策略](May-Reflection.md)，并更具策略调整了进行中的活动
 # 一些关于维护八小时工作制和双休制的行动
@@ -9,9 +9,10 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/CPdogson/996action.svg)](http://hits.dwyl.io/CPdogson/996action)
 ## 进行中...
-### [立法建议：向国务院提议修改《劳动保障监察条例》](change-law.md)
+### [条例修改建议：向国务院提议修改《劳动保障监察条例》](change-law.md)
 国务院《劳动保障监察条例》以及劳动部（现人社部）《关于实施〈劳动保障监察条例〉若干规定》出台于2004年，距今以后15年未进行调整和修改，规定中的处罚标准已经不符合当今的经济水平，违法成本过低导致企业普遍违法；规定中亦存在企业和劳动监察部门的职责不明细，导致企业和劳动监察部门职责不清，工作消极。故本建议建议修改第二十五条、第三十条中对企业的处罚标准，并完善第十四条企业报送的书面材料内容、三十一条劳动保障员玩忽职守的处罚。
 > 进展：公开签名页面设计完毕
+
 [github](https://github.com/CPdogson/996action/blob/master/signature.md)
 
 [不熟悉github的劳动者的第三方渠道](https://www.996action.com/index.php/293988?lang=zh-Hans)
