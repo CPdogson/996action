@@ -1,9 +1,13 @@
 # 996icu永不停止，为爱前行——996action行政诉讼第一案诉成都市社会保障和人力资源局
 > 前景提要：本次行动全部计划从[2018年4月8日开始启动](https://github.com/CPdogson/996action/blob/master/Gov-info/gov-info.md)，[4月20日进行第一次计划会议](https://github.com/CPdogson/996action/blob/master/Gov-info/420meet.md)，4月28日进行第二次确认会议，与寄送劳动法活动一样，4月29日寄出，起诉时间与收到答复时间相关，并且全程于[slack](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)上公开组织讨论。
 
-> 进展：5月27日进展：行政立案庭休年假的工作人员回来上班了，这周内应该可以处理到996action的案件。
+> 5月27日进展：行政立案庭休年假的工作人员回来上班了，这周内应该可以处理到996action的案件。
+
 996action的宗旨是保卫休息制度，如果抱怨别人单位修年假导致效率低，就是双标了，所以我们不能这样做。
+
 休息制度完善后的国家应当如此，每个人都有休假的权力和尊重他人休假的义务，耐心的等待恰恰是我们对休假制度的尊重。
+
+6月6日进展：已立案，等待开庭通知中
 - 知乎：https://www.zhihu.com/question/325277117
 - 微信公众号：https://mp.weixin.qq.com/s/A5k9EfCjOrkuI-6wI0fqlg
 - 豆瓣：https://www.douban.com/note/719582021/
