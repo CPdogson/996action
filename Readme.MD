@@ -1,5 +1,5 @@
 > 最新进展：
-- 条例修改建议：向国务院提议修改《劳动保障监察条例》的初步设计
+- 条例修改建议：[向国务院提议修改《劳动保障监察条例》的初步设计](https://github.com/CPdogson/996action#%E6%9D%A1%E4%BE%8B%E4%BF%AE%E6%94%B9%E5%BB%BA%E8%AE%AE%E5%90%91%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%8F%90%E8%AE%AE%E4%BF%AE%E6%94%B9%E5%8A%B3%E5%8A%A8%E4%BF%9D%E9%9A%9C%E7%9B%91%E5%AF%9F%E6%9D%A1%E4%BE%8B)
 - 上传了[5月20日起诉成都市人力资源和社会保障局的宣传稿件](Press-releases/chengdususong.md) 目前案件等待开庭中
 - 添加了[五月行动后的反思以及后续的行动策略](May-Reflection.md)，并更具策略调整了进行中的活动
 # 一些关于维护八小时工作制和双休制的行动
