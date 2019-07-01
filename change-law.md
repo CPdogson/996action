@@ -1,7 +1,5 @@
 # 关于《劳动保障监察条例》第二十五条、第三十条规定的修改建议以及对十四条规定的完善建议
 
-**996action行动者**
-
 > [立法建议签名页面（Github PR版）](https://github.com/CPdogson/996action/blob/master/signature.md)
 
 > [立法建议签名页面（问卷形式）](https://www.996action.com/index.php/293988?lang=zh-Hans)
