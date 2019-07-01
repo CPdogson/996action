@@ -1,4 +1,5 @@
-
+# 我们不会停止，尝试去改变
+> 信息公开简单报告、诉讼以及行政复议，以及研究信息公开结果得出的立法建议
 
 996.icu爆发之后，996行动（996action）借着五一这个特殊的节日对杭州、南京、深圳、成都、苏州五个市的人力资源和社会保障局进行了信息公开，5月20日收到全部答复之后，处在了一个尴尬的时期。为了避免被扣帽子，在这个万事俱静的时期，996行动的行动者又要出来争取自己的诉求了。
 
@@ -69,6 +70,7 @@
 [南京复议书P2.jpg](https://i.loli.net/2019/07/01/5d1982ee8926037363.jpg)  
 [南京邮寄单.jpg](https://i.loli.net/2019/07/01/5d1982f126ba518384.jpg)  
 
-
 立法建议原文及链接
-
+[立法建议](https://github.com/CPdogson/996action/blob/master/change-law.md)
+[立法建议签名页面（PR版）]（https://github.com/CPdogson/996action/blob/master/signature.md）
+[立法建议签名页面（limesurvey前端版）]（https://www.996action.com/index.php/293988?lang=zh-Hans）
