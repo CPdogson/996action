@@ -72,5 +72,5 @@
 
 立法建议原文及链接
 [立法建议](https://github.com/CPdogson/996action/blob/master/change-law.md)
-[立法建议签名页面（PR版）]（https://github.com/CPdogson/996action/blob/master/signature.md）
-[立法建议签名页面（limesurvey前端版）]（https://www.996action.com/index.php/293988?lang=zh-Hans）
+[立法建议签名页面（PR版）](https://github.com/CPdogson/996action/blob/master/signature.md)
+[立法建议签名页面（limesurvey前端版）](https://www.996action.com/index.php/293988?lang=zh-Hans)
